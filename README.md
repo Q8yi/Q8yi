@@ -1,4 +1,4 @@
-## Hi there, I am Qi Ying 👋
+## Hi there👋
 
 # 💫 About Me:
 I am passionate about becoming a Data Scientist, with a strong interest in leveraging data to drive informed business decisions. I aim to apply machine learning, data analysis, and feature engineering techniques to uncover insights, build predictive models, and create data-driven strategies that add tangible value to organizations.
