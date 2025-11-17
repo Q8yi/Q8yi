@@ -2,8 +2,10 @@
 
 # 💫 About Me:
 I am passionate about becoming a Data Scientist, with a strong interest in leveraging data to drive informed business decisions. I aim to apply machine learning, data analysis, and feature engineering techniques to uncover insights, build predictive models, and create data-driven strategies that add tangible value to organizations.
+
 🏆 I’m currently working on finance project (involving webapp facilitating the following: financial report extraction, utilising LLM to answer questions related to financial report, stocks & crypto financial analysis and prediction)
-🎖️ I am learning Machine learning & AI to enhance and training model to make impactful business decisions
+
+🎖️ I am learning Machine learning to enhance and train model making impactful business decisions
 
 
 # 💻 Tech Stack:
